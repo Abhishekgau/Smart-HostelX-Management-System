@@ -37,21 +37,21 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
 ### 🔑 Authentication & Portal Selection
 | Platform Overview | Profile Selector | Student Sign In | Warden Sign In |
 | :---: | :---: | :---: | :---: |
-| ![Platform Overview](WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20%283%29.jpeg) | ![Select Profile](WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20%282%29.jpeg) | ![Student Sign In](WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20%281%29.jpeg) | ![Warden Sign In](WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM.jpeg) |
+| ![Platform Overview](media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(3).jpeg) | ![Select Profile](media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(2).jpeg) | ![Student Sign In](media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(1).jpeg) | ![Warden Sign In](media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM.jpeg) |
 
 ### 🎓 Student Dashboard
 | Account Creation | Leave Application |
 | :---: | :---: |
-| ![Create Account](WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20%282%29.jpeg) | ![Leave Request](WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM.jpeg) |
+| ![Create Account](media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(2).jpeg) | ![Leave Request](media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM.jpeg) |
 
 ### 🛡️ Warden Control Panel
 | Warden Dashboard | Student Management | Leave Approvals |
 | :---: | :---: | :---: |
-| ![Warden Dashboard](WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20%285%29.jpeg) | ![Students Details](WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20%284%29.jpeg) | ![Leave Requests](WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20%283%29.jpeg) |
+| ![Warden Dashboard](media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(5).jpeg) | ![Students Details](media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(4).jpeg) | ![Leave Requests](media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(3).jpeg) |
 
 | Visitor Workflow | Room Transfer Pipeline |
 | :---: | :---: |
-| ![Visitor Requests](WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20%282%29.jpeg) | ![Room Transfer](WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20%281%29.jpeg) |
+| ![Visitor Requests](media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(2).jpeg) | ![Room Transfer](media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(1).jpeg) |
 
 ---
 
@@ -61,5 +61,5 @@ If you want to run or test the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/hostelx.git](https://github.com/your-username/hostelx.git)
-   cd hostelx
+   git clone [https://github.com/Abhishekgau/Smart-HostelX-Management-System.git](https://github.com/Abhishekgau/Smart-HostelX-Management-System.git)
+   cd Smart-HostelX-Management-System
