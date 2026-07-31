@@ -46,7 +46,7 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
   <tr>
     <td align="center"><img width="1600" height="747" alt="Warden Sign In" src="https://github.com/user-attachments/assets/78871caa-7ecf-4a46-a422-0d8b22e3e6e9"/><br/><b>5. Warden Sign In</b></td>
     <td align="center"><img width="1600" height="757" alt="Room Transfer" src="https://github.com/user-attachments/assets/76b75eb8-e955-4cec-b5fc-a68b61e00771"/><br/><b>6. Room Transfer</b></td>
-    <td align="center"><img width="1600" height="759" alt="Visitor Request" src="https://github.com/user-attachments/assets/3bc42032-34dd-486c-a50f-55fdda0cb13e"/><br/><b>7. Visitor Request</b></td>
+    <td align="center"><img width="1600" height="759" alt="Visitor Request" src="https://github.com/user-attachments/assets/f5a24bf4-e206"/><br/><b>7. Visitor Request</b></td>
     <td align="center"><img width="1600" height="754" alt="Student Panel" src="https://github.com/user-attachments/assets/76b75eb8-e955-4cec-b5fc-a68b61e00771"/><br/><b>8. Student Panel</b></td>
   </tr>
   <tr>
