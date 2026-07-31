@@ -38,9 +38,9 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
 
 <table>
   <tr>
-    <td align="center"><img width="1600" height="755" alt="Create Account" src="https://github.com/user-attachments/assets/785c6d51-c7e3-4cb8-a05e-575154e89352"/><br/><b>1. Create Account</b></td>
+    <td align="center"><img width="1600" height="755" alt="Create Account" src="https://github.com/user-attachments/assets/5a1e7ae8-f2b0-436b-bd44-21322b691b98"/"/><br/><b>1. Create Account</b></td>
     <td align="center"><img width="1600" height="756" alt="Student Sign In" src="https://github.com/user-attachments/assets/48d0df83-e9fb-4cbe-991e-549c6312af97"/><br/><b>2. Student Sign In</b></td>
-    <td align="center"><img width="1600" height="759" alt="Apply Leave" src="https://github.com/user-attachments/assets/5a1e7ae8-f2b0-436b-bd44-21322b691b98"/><br/><b>3. Apply Leave</b></td>
+    <td align="center"><img width="1600" height="759" alt="Apply Leave" src="https://github.com/user-attachments/assets/785c6d51-c7e3-4cb8-a05e-575154e8935"/><br/><b>3. Apply Leave</b></td>
     <td align="center"><img width="1600" height="759" alt="Select Profile" src="https://github.com/user-attachments/assets/bf840dfd-4ff5-4466-aeb1-f505bacfb92e"/><br/><b>4. Select Profile</b></td>
   </tr>
   <tr>
