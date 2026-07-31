@@ -62,14 +62,14 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/8df6885a-d846-4417-8b97-7557770749c1" width="200"/><br/><b>Create Account</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM_2.jpeg" width="200"/><br/><b>Leave Application</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(5)_2.jpeg" width="200"/><br/><b>Warden Dashboard</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(4)_2.jpeg" width="200"/><br/><b>Student Management</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/17f28bbc-7b7e-4c74-8892-318aeb11309b" width="200"/><br/><b>Leave Application</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/acd591f2-31b3-4af5-b4ff-3ea282bc706d" width="200"/><br/><b>Warden Dashboard</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/3d3c4386-c324-4c44-ad5f-875e77da1f70" width="200"/><br/><b>Student Management</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(3)_2.jpeg" width="200"/><br/><b>Leave Requests</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(2)_2.jpeg" width="200"/><br/><b>Visitor Workflow</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(1)_2.jpeg" width="200"/><br/><b>Room Transfer</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f85eca84-40c1-450d-b4aa-8ae89e74ee98" width="200"/><br/><b>Leave Requests</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/3f28b05a-e09b-439a-b031-602170cb8877" width="200"/><br/><b>Visitor Workflow</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e71a523d-cfd0-49d8-8094-7292deb74dde" width="200"/><br/><b>Room Transfer</b></td>
     <td align="center"></td>
   </tr>
 </table>
