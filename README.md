@@ -37,12 +37,20 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
 ### 🔑 Authentication & Portal Selection
 | Platform Overview | Profile Selector | Student Sign In | Warden Sign In |
 | :---: | :---: | :---: | :---: |
-| ![Platform Overview](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(3)_2.jpeg) | ![Select Profile](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(2)_2.jpeg) | ![Student Sign In](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(1)_2.jpeg) | ![Warden Sign In](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM_2.jpeg) |
+| <img width="400" alt="Platform Overview" src="https://github.com/user-attachments/assets/17f28bbc-7b7e-4c74-8892-318aeb11309b" /> | <img width="400" alt="Profile Selector" src="https://github.com/user-attachments/assets/acd591f2-31b3-4af5-b4ff-3ea282bc706d" /> | <img width="400" alt="Student Sign In" src="https://github.com/user-attachments/assets/3d3c4386-c324-4c44-ad5f-875e77da1f70" /> | <img width="400" alt="Warden Sign In" src="https://github.com/user-attachments/assets/f85eca84-40c1-450d-b4aa-8ae89e74ee98" /> |
+
+| Registration Flow | User Dashboard View | Active Session | Profile Details |
+| :---: | :---: | :---: | :---: |
+| <img width="400" alt="Registration" src="https://github.com/user-attachments/assets/3f28b05a-e09b-439a-b031-602170cb8877" /> | <img width="400" alt="Dashboard" src="https://github.com/user-attachments/assets/e71a523d-cfd0-49d8-8094-7292deb74dde" /> | <img width="400" alt="Session" src="https://github.com/user-attachments/assets/ead07dea-e8c0-49fc-aee1-fcb81fdc440e" /> | <img width="400" alt="Profile Details" src="https://github.com/user-attachments/assets/247b1b9e-9bb0-412a-8d3f-065fcba56c76" /> |
+
+| Account Settings | System States | Additional Views | Student Creation |
+| :---: | :---: | :---: | :---: |
+| <img width="400" alt="Settings" src="https://github.com/user-attachments/assets/c949627f-5669-4e81-af97-c4ed0dceb167" /> | <img width="400" alt="System States" src="https://github.com/user-attachments/assets/843acf8a-253d-4dfa-9afc-72d514d92517" /> | <img width="400" alt="Additional Views" src="https://github.com/user-attachments/assets/bcea2e3f-4717-4c31-997a-8ba0fd9a954e" /> | <img width="400" alt="Student Creation" src="https://github.com/user-attachments/assets/4e99968b-096a-4100-b769-87fbb33944c8" /> |
 
 ### 🎓 Student Dashboard
 | Account Creation | Leave Application |
 | :---: | :---: |
-| ![Create Account](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(2)_2.jpeg) | ![Leave Request](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM_2.jpeg) |
+| <img width="400" alt="Create Account" src="https://github.com/user-attachments/assets/8df6885a-d846-4417-8b97-7557770749c1" /> | ![Leave Request](https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM_2.jpeg) |
 
 ### 🛡️ Warden Control Panel
 | Warden Dashboard | Student Management | Leave Approvals |
