@@ -38,22 +38,22 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(2)_3.jpeg" width="200"/><br/><b>1. Create Account</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(1)_3.jpeg" width="200"/><br/><b>2. Student Sign In</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM_3.jpeg" width="200"/><br/><b>3. Apply Leave</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM%20(3)_3.jpeg" width="200"/><br/><b>4. Select Profile (Student/Warden)</b></td>
+    <td align="center"><img width="1600" height="755" alt="Create Account" src="https://github.com/user-attachments/assets/785c6d51-c7e3-4cb8-a05e-575154e89352"/><br/><b>1. Create Account</b></td>
+    <td align="center"><img width="1600" height="756" alt="Student Sign In" src="https://github.com/user-attachments/assets/48d0df83-e9fb-4cbe-991e-549c6312af97"/><br/><b>2. Student Sign In</b></td>
+    <td align="center"><img width="1600" height="759" alt="Apply Leave" src="https://github.com/user-attachments/assets/5a1e7ae8-f2b0-436b-bd44-21322b691b98"/><br/><b>3. Apply Leave</b></td>
+    <td align="center"><img width="1600" height="759" alt="Select Profile" src="https://github.com/user-attachments/assets/bf840dfd-4ff5-4466-aeb1-f505bacfb92e"/><br/><b>4. Select Profile</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.53%20AM_3.jpeg" width="200"/><br/><b>5. Warden Sign In</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(1)_3.jpeg" width="200"/><br/><b>6. Room Transfer</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(2)_3.jpeg" width="200"/><br/><b>7. Visitor Request</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM_3.jpeg" width="200"/><br/><b>8. Student Panel</b></td>
+    <td align="center"><img width="1600" height="747" alt="Warden Sign In" src="https://github.com/user-attachments/assets/78871caa-7ecf-4a46-a422-0d8b22e3e6e9"/><br/><b>5. Warden Sign In</b></td>
+    <td align="center"><img width="1600" height="757" alt="Room Transfer" src="https://github.com/user-attachments/assets/f5a24bf4-e206-4c50-b770-04c608265599"/><br/><b>6. Room Transfer</b></td>
+    <td align="center"><img width="1600" height="759" alt="Visitor Request" src="https://github.com/user-attachments/assets/3bc42032-34dd-486c-a50f-55fdda0cb13e"/><br/><b>7. Visitor Request</b></td>
+    <td align="center"><img width="1600" height="754" alt="Student Panel" src="https://github.com/user-attachments/assets/76b75eb8-e955-4cec-b5fc-a68b61e00771"/><br/><b>8. Student Panel</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(5)_3.jpeg" width="200"/><br/><b>9. Warden Panel</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(6).jpeg" width="200"/><br/><b>10. Raise Complaint</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(7).jpeg" width="200"/><br/><b>11. Complaint Feed</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM.jpeg" width="200"/><br/><b>12. Fees Dashboard</b></td>
+    <td align="center"><img width="1600" height="722" alt="Warden Panel" src="https://github.com/user-attachments/assets/f5c4c3bc-b76b-47ff-8aa0-6d239cc1416e"/><br/><b>9. Warden Panel</b></td>
+    <td align="center"><img width="1600" height="767" alt="Raise Complaint" src="https://github.com/user-attachments/assets/9c7a4197-aa31-419d-9c04-af0d215d4131"/><br/><b>10. Raise Complaint</b></td>
+    <td align="center"><img width="1600" height="738" alt="Complaint Feed" src="https://github.com/user-attachments/assets/5b83b4de-64c9-4794-91cb-70b9002aed5b"/><br/><b>11. Complaint Feed</b></td>
+    <td align="center"><img width="1600" height="766" alt="Fees Dashboard" src="https://github.com/user-attachments/assets/60e56d83-9a55-4f4a-b96b-1c5341ea9983"/><br/><b>12. Fees Dashboard</b></td>
   </tr>
 </table>
 
