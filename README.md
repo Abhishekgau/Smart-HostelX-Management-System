@@ -33,22 +33,46 @@ A modern, SaaS-grade smart hostel intelligence platform designed to streamline h
 ---
 
 ## 🖼️ Application Screenshots
-| Platform Overview | Profile Selector | Student Sign In | Warden Sign In |
-<img width="1600" height="738" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (7)" src="https://github.com/user-attachments/assets/17f28bbc-7b7e-4c74-8892-318aeb11309b" />
-<img width="1600" height="767" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (6)" src="https://github.com/user-attachments/assets/acd591f2-31b3-4af5-b4ff-3ea282bc706d" />
-<img width="1600" height="722" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (5)" src="https://github.com/user-attachments/assets/3d3c4386-c324-4c44-ad5f-875e77da1f70" />
-<img width="1600" height="759" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (4)" src="https://github.com/user-attachments/assets/f85eca84-40c1-450d-b4aa-8ae89e74ee98" />
-<img width="1600" height="758" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (3)" src="https://github.com/user-attachments/assets/3f28b05a-e09b-439a-b031-602170cb8877" />
-<img width="1600" height="757" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (2)" src="https://github.com/user-attachments/assets/e71a523d-cfd0-49d8-8094-7292deb74dde" />
-<img width="1600" height="754" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM (1)" src="https://github.com/user-attachments/assets/ead07dea-e8c0-49fc-aee1-fcb81fdc440e" />
-<img width="1600" height="766" alt="WhatsApp Image 2026-08-01 at 12 53 25 AM" src="https://github.com/user-attachments/assets/247b1b9e-9bb0-412a-8d3f-065fcba56c76" />
-<img width="1600" height="759" alt="WhatsApp Image 2026-08-01 at 12 51 53 AM (3)" src="https://github.com/user-attachments/assets/c949627f-5669-4e81-af97-c4ed0dceb167" />
-<img width="1600" height="759" alt="WhatsApp Image 2026-08-01 at 12 51 53 AM (2)" src="https://github.com/user-attachments/assets/843acf8a-253d-4dfa-9afc-72d514d92517" />
-<img width="1600" height="756" alt="WhatsApp Image 2026-08-01 at 12 51 53 AM (1)" src="https://github.com/user-attachments/assets/bcea2e3f-4717-4c31-997a-8ba0fd9a954e" />
-<img width="1600" height="747" alt="WhatsApp Image 2026-08-01 at 12 51 53 AM" src="https://github.com/user-attachments/assets/4e99968b-096a-4100-b769-87fbb33944c8" />
-<img width="1600" height="755" alt="WhatsApp Image 2026-08-01 at 12 51 24 AM" src="https://github.com/user-attachments/assets/8df6885a-d846-4417-8b97-7557770749c1" />
 
+### 🔑 Authentication & Portal Selection
 
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/17f28bbc-7b7e-4c74-8892-318aeb11309b" width="200"/><br/><b>Platform Overview</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/acd591f2-31b3-4af5-b4ff-3ea282bc706d" width="200"/><br/><b>Profile Selector</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/3d3c4386-c324-4c44-ad5f-875e77da1f70" width="200"/><br/><b>Student Sign In</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f85eca84-40c1-450d-b4aa-8ae89e74ee98" width="200"/><br/><b>Warden Sign In</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/3f28b05a-e09b-439a-b031-602170cb8877" width="200"/><br/><b>Registration Flow</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e71a523d-cfd0-49d8-8094-7292deb74dde" width="200"/><br/><b>User Dashboard</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/ead07dea-e8c0-49fc-aee1-fcb81fdc440e" width="200"/><br/><b>Active Session</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/247b1b9e-9bb0-412a-8d3f-065fcba56c76" width="200"/><br/><b>Profile Details</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c949627f-5669-4e81-af97-c4ed0dceb167" width="200"/><br/><b>Account Settings</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/843acf8a-253d-4dfa-9afc-72d514d92517" width="200"/><br/><b>System States</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/bcea2e3f-4717-4c31-997a-8ba0fd9a954e" width="200"/><br/><b>Additional Views</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/4e99968b-096a-4100-b769-87fbb33944c8" width="200"/><br/><b>Student Creation</b></td>
+  </tr>
+</table>
+
+### 🎓 Student & Warden Dashboards
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/8df6885a-d846-4417-8b97-7557770749c1" width="200"/><br/><b>Create Account</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.51.24%20AM_2.jpeg" width="200"/><br/><b>Leave Application</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(5)_2.jpeg" width="200"/><br/><b>Warden Dashboard</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(4)_2.jpeg" width="200"/><br/><b>Student Management</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(3)_2.jpeg" width="200"/><br/><b>Leave Requests</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(2)_2.jpeg" width="200"/><br/><b>Visitor Workflow</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Abhishekgau/Smart-HostelX-Management-System/main/media/WhatsApp%20Image%202026-08-01%20at%2012.53.25%20AM%20(1)_2.jpeg" width="200"/><br/><b>Room Transfer</b></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ---
 
